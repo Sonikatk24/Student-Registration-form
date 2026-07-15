@@ -37,19 +37,8 @@ Registration-Form/
 
 ## 📸 Screenshot
 
-Add a screenshot of your project here.
+<img width="1240" height="1202" alt="Screenshot_15-7-2026_124510_" src="https://github.com/user-attachments/assets/860d4541-ada0-47cb-a0c9-77d8676e623b" />
 
-Example:
-
-```
-screenshots/
-└── registration-form.png
-```
-
-Then display it using:
-
-```markdown
-![Registration Form](screenshots/registration-form.png)
 ```
 
 ## 📚 What I Learned
